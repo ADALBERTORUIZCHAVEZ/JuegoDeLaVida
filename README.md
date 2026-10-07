@@ -13,13 +13,13 @@ La evolución de las células se realiza siguiendo las reglas del Juego de la Vi
 
 Controles
 
-↑	Mover cursor hacia arriba
-↓	Mover cursor hacia abajo
-←	Mover cursor hacia la izquierda
-→	Mover cursor hacia la derecha
-ENTER	Activar/desactivar una célula
-S	Iniciar la simulación
-Q	Salir
+- ↑	Mover cursor hacia arriba
+- ↓	Mover cursor hacia abajo
+- ←	Mover cursor hacia la izquierda
+- →	Mover cursor hacia la derecha
+- ENTER	Activar/desactivar una célula
+- S	Iniciar la simulación
+- Q	Salir
 <p align="center">
   <img src= "https://github.com/ADALBERTORUIZCHAVEZ/JuegoDeLaVida/blob/main/JuegoDeLaVida.PNG" alt="logo"/>
 </p>
